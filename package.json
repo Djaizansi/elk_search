@@ -24,6 +24,8 @@
     "homepage": "https://github.com/JalpeshVadgama/NodeTwitterStreamApi#readme",
     "dependencies": {
         "dotenv": "^8.2.0",
+        "elasticbulk": "^1.0.28",
+        "elasticsearch": "^16.7.2",
         "epxress": "0.0.1-security",
         "express": "^4.17.1",
         "fs": "0.0.1-security",
