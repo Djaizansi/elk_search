@@ -29,6 +29,7 @@
         "epxress": "0.0.1-security",
         "express": "^4.17.1",
         "fs": "0.0.1-security",
+        "needle": "^2.7.0",
         "twit": "^2.2.11"
     }
 }
